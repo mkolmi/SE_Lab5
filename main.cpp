@@ -11,4 +11,6 @@ int main()
     cout<<"b=";
     cin >> b;
     cout << "Output a+b= " << a+b;
+    int c = a-b;	
+    cout << "Output a-b= " << c;
 }
