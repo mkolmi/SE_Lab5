@@ -10,4 +10,5 @@ int main()
     cin >> a;
     cout<<"b=";
     cin >> b;
+    cout << "Output a+b= " << a+b;
 }
